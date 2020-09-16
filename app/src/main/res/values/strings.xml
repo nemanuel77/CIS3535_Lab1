@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="my_greeting">Holy smokes, this emulator uses all available RAM!</string>
+</resources>
